@@ -1,4 +1,4 @@
-name: Workflow
+name: Workflow com Depend de Jobs
 
 on:
   push:
